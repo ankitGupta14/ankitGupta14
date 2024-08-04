@@ -1,7 +1,7 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Ankit Kumar Gupta</h1>
 <h3 align="center">Mern Stack Developer from India </h3>
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5596f54798fa97bd793a9cd4e5f74b082742e3871c57d9d1a01a032ddc1c847e/68747470733a2f2f656e6163746573657276696365732e636f6d2f77702d636f6e74656e742f7468656d65732f7477656e74797477656e74792f696d616765732f686972652d646576656c6f7065722f616e696d6174696f6e5f3530305f6c347a63396a35672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitgupta14&label=Profile%20views&color=0e75b6&style=flat" alt="ankitgupta14" /> </p>
 
